@@ -11,6 +11,7 @@
     height: 7vh;
     line-height: 7vh;
     
+<<<<<<< HEAD
     
 }
 
@@ -19,8 +20,16 @@
     background-color: rgb(29, 28, 28);
     z-index: 1;
     width: 100%;
+=======
+>>>>>>> 17d728da6a6c16ce76626894358b19de5a7e6068
 }
 
+.navbar{
+    position: sticky;
+    background-color: rgb(29, 28, 28);
+    z-index: 1;
+    width: 100%;
+}
 .Header ul{
     display: inline-flex;
 }
