@@ -6,12 +6,19 @@
 }
 
 .Header{
-    position: sticky;
-    background-color: rgb(29, 28, 28);
+    
     text-align: center;
     height: 7vh;
     line-height: 7vh;
-    margin: 10px 0px;
+    
+    
+}
+
+.navbar{
+    position: fixed;
+    background-color: rgb(29, 28, 28);
+    z-index: 1;
+    width: 100%;
 }
 
 .Header ul{
