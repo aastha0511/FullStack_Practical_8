@@ -16,7 +16,7 @@
 .navbar{
     position: sticky;
     background-color: rgb(29, 28, 28);
-    index: 1;
+    z-index: 1;
     width: 100%;
 }
 .Header ul{
